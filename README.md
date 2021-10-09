@@ -2,7 +2,7 @@
 <b>Run using: 
 <i>go run server.go</i><b><br>
 <b>Test using:
-</i>go test</i></b>
+<i>go test</i></b>
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Endpoints   </h2>
 
