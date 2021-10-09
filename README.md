@@ -35,6 +35,6 @@
  Get Posts by ID<br>
   <img src = "https://github.com/tanish-malekar/Appointy-Task/blob/main/Screenshots/getPostsByUserID.jpg?raw=true" width = 1000px>
  Get Posts by ID (with pagination)<br>
- <img src = "https://github.com/tanish-malekar/Appointy-Task/blob/main/Screenshots/getPostsByUserID.jpg?raw=true" width = 1000px>
+ <img src = "https://github.com/tanish-malekar/Appointy-Task/blob/main/Screenshots/getPostsByUserIDPagination.jpg?raw=true" width = 1000px>
 
 
