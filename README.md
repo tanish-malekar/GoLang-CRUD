@@ -4,7 +4,7 @@
 <b>Test using:
 <i>go test</i></b>
 
-<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Endpoints   </h2>
+<h2>Endpoints   </h2>
 
 * **Create an User: http://localhost:8080/users (POST request)**
 * **Get a user using id: http://localhost:8080/users/'id here' (GET request)**
@@ -12,7 +12,7 @@
 * **Get a post using id: http://localhost:8080/posts/'id here' (GET request)**. 
 * **List all posts of a user: http://localhost:8080/posts/users/'id here'?offset='offset here'&limit='limit here; (GET request)<b>(Pagination has been implemented)<b>**.
 
-<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Features Implemented  </h2>
+<h2>Features Implemented  </h2>
 
 - The API was developed using Go
 - MongoDB was used for storage
@@ -23,7 +23,7 @@
 - Pagination was used for list endpoints
 - Unit tests were added
  
- <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Screenshots</h2>
+ <h2>Screenshots</h2>
  Post User<br>
 <img src = "https://github.com/tanish-malekar/Appointy-Task/blob/main/Screenshots/postUser.jpg?raw=true" width = 1000px>
  Get user by ID<br>
