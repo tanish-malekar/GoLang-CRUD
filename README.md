@@ -1,4 +1,4 @@
-# AppointyTask
+# GoLang CRUD
 <b>Run using: 
 <i>go run server.go</i><b><br>
 <b>Test using:
